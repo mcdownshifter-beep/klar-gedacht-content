@@ -1,1 +1,18 @@
 
+{
+  "schema_version": 1,
+  "channel": "klar-gedacht-daily",
+  "timezone": "Europe/Vienna",
+  "posts": [
+    {
+      "id": "app-20261031",
+      "date": "2026-10-31",
+      "type": "klartext",
+      "title": "Manchmal beginnt Klarheit mit einer Pause.",
+      "description": "Nicht jeder Gedanke verlangt sofort nach einer Antwort.",
+      "status": "READY",
+      "source": "test"
+    }
+  ]
+}
+
